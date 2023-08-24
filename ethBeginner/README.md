@@ -55,10 +55,10 @@ Utilize the burn function to remove tokens from a specific address by specifying
 
 Ensure that the sender has a sufficient balance to perform the burn operation.
 
-##License
+## License
 
 This contract is open-source software released under the MIT License. 
 
-##Author
+## Author
 
 This Ethereum contract was authored by kingEric100
